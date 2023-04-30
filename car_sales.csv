@@ -1,0 +1,11 @@
+date,sales_rep,make,model,year,units_sold,unit_price
+2023-04-08,John Smith,Ford,Fusion,2022,5,$25000
+2023-04-08,Jane Doe,Chevrolet,Malibu,2021,8,$22000
+2023-04-09,Bob Johnson,Toyota,Camry,2023,12,$28000
+2023-04-09,Sara Williams,Honda,Accord,2022,3,$27000
+2023-04-10,Mark Lee,Jeep,Grand Cherokee,2021,10,$40000
+2023-04-11,Emily Chen,Toyota,Rav4,2022,7,$32000
+2023-04-12,Chris Brown,Ford,F-150,2022,15,$45000
+2023-04-12,Alex Kim,Chevrolet,Silverado,2021,6,$38000
+2023-04-13,Katie Smith,Honda,Civic,2023,4,$25000
+2023-04-13,Tom Lee,Jeep,Wrangler,2022,9,$35000
